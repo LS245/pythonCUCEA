@@ -1,0 +1,5 @@
+rojo
+anaranjado
+morado
+azul
+rosa
